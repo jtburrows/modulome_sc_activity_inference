@@ -23,3 +23,7 @@ Running the notebook will calculate activities from the data and generate basic 
 
 ### Environment Creation
 Using conda, install environoment with the following command: `conda env create -f environment.yml`
+
+### Data
+
+Data necessary for use (including test data) is included as a zip file under releases for this repository. Unzip the file to a folder 'data' under the repository root.
